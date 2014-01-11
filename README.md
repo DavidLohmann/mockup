@@ -1,4 +1,4 @@
-mockup
-======
+#User Stories for My App
 
-User Stories and HTML Mockup Pages
+1. As a user, I want to view my classes.
+2. As a user, I want to view all classes for the quarter.
