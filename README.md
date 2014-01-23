@@ -9,9 +9,5 @@
 6. As an administrator, I want to view exchange matches.
 
 #Domain Model
-
-##Products
-
-|ID|Title|SKU|Price|
-|--|_____|___|_____|
+https://docs.google.com/spreadsheet/ccc?key=0AknQFdqfUAzydGdQX3Qxa19QMnNIS0xFWnZlOVBER1E#gid=0
 
