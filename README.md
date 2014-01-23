@@ -9,5 +9,4 @@
 6. As an administrator, I want to view exchange matches.
 
 #Domain Model
-https://docs.google.com/spreadsheet/ccc?key=0AknQFdqfUAzydGdQX3Qxa19QMnNIS0xFWnZlOVBER1E#gid=0
-
+https://docs.google.com/spreadsheet/ccc?key=0AknQFdqfUAzydGdQX3Qxa19QMnNIS0xFWnZlOVBER1E&usp=sharing
